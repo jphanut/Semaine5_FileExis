@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1646058011 source:/home/margauxhanut/ProjectC/Semaine5_FileExist/main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/mman.h>
+	<string.h>
+
